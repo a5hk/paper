@@ -2,21 +2,18 @@
   "name": "paper",
   "displayName": "Paper",
   "description": "Light theme with paper background",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "a5hk",
   "author": "a5hk",
   "license": "MIT",
   "icon": "icon.png",
+  "preview": true,
   "keywords": [
     "Paper",
     "Borderless",
     "Italic",
     "Contrast"
   ],
-  "galleryBanner": {
-    "color": "#030917",
-    "theme": "light"
-  },
   "engines": {
     "vscode": "^1.52.0"
   },
