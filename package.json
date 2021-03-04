@@ -1,0 +1,75 @@
+{
+  "name": "paper",
+  "displayName": "Paper",
+  "description": "Light theme with paper background",
+  "version": "0.1.0",
+  "publisher": "a5hk",
+  "author": "a5hk",
+  "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "Paper",
+    "Borderless",
+    "Italic",
+    "Contrast"
+  ],
+  "galleryBanner": {
+    "color": "#030917",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "homepage": "https://github.com/a5hk/paper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5hk/paper"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paper",
+        "uiTheme": "vs",
+        "path": "./themes/paper-color-theme.json"
+      },
+      {
+        "label": "Paper Contrast",
+        "uiTheme": "vs",
+        "path": "./themes/paper-contrast-color-theme.json"
+      },
+      {
+        "label": "Paper Italic",
+        "uiTheme": "vs",
+        "path": "./themes/paper-italic-color-theme.json"
+      },
+      {
+        "label": "Paper Contrast Italic",
+        "uiTheme": "vs",
+        "path": "./themes/paper-contrast-italic-color-theme.json"
+      }
+    ]
+  },
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ./src/** --ext .ts",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean && rm -f ./themes/*",
+    "format": "prettier --write ./themes/*.json",
+    "gen": "npm run lint && npm run clean && npm run build && node ./dist/index.js && npm run format",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/chroma-js": "^2.1.3",
+    "@types/node": "^14.14.22",
+    "@typescript-eslint/eslint-plugin": "^4.14.2",
+    "@typescript-eslint/parser": "^4.14.2",
+    "chroma-js": "^2.1.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "prettier": "2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
