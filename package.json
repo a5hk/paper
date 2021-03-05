@@ -2,7 +2,7 @@
   "name": "paper",
   "displayName": "Paper",
   "description": "Light theme with paper background",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "a5hk",
   "author": "a5hk",
   "license": "MIT",
@@ -12,7 +12,8 @@
     "Paper",
     "Borderless",
     "Italic",
-    "Contrast"
+    "Contrast",
+    "Light"
   ],
   "engines": {
     "vscode": "^1.52.0"
