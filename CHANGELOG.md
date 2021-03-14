@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+- Some optimizations
+
 ## 0.2.0
 
 - Hover border color for draggable sashes
