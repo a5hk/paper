@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2
+
+- fixed support variables color
+
 ## 0.2.1
 
 - Some optimizations
