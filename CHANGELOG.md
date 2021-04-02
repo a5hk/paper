@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0
+
+- Fixed module syntax highlighting
+
 ## 0.2.2
 
 - fixed support variables color
