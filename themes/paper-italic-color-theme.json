@@ -11,6 +11,8 @@
     "badge.background": "#0da492",
     "button.background": "#f04257",
     "button.foreground": "#fde0e3",
+    "button.secondaryBackground": "#cecbbf",
+    "button.secondaryForeground": "#676664",
     "button.hoverBackground": "#e03e51",
     "debugToolBar.background": "#cecbbf",
     "diffEditor.insertedTextBackground": "#0fbda833",

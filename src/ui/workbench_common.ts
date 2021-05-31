@@ -12,6 +12,8 @@ export const commonWorkbenchColors: workbenchColor = {
   "badge.background": /* .......................... */ uiColor.accentBackground22,
   "button.background": /* ......................... */ uiColor.statusBarRemoteBackground,
   "button.foreground": /* ......................... */ uiColor.statusBarRemoteForeground,
+  "button.secondaryBackground": /* ................ */ uiColor.background44,
+  "button.secondaryForeground": /* ................ */ uiColor.backgrounddd,
   "button.hoverBackground": /* .................... */ uiColor.buttonHoverBackground,
   "debugToolBar.background": /* ................... */ uiColor.background44,
   "diffEditor.insertedTextBackground": /* ......... */ `${uiColor.statusBarBackground}33`,

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.0
+
+- Secondary button colors
+
 ## 0.3.0
 
 - Fixed module syntax highlighting

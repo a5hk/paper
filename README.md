@@ -1,5 +1,7 @@
 # [Paper](https://marketplace.visualstudio.com/items?itemName=a5hk.paper)
 
+The goal was to create a colorful light theme with a good contrast ratio.
+
 ## Screenshots
 
 ### HTML
