@@ -285,7 +285,7 @@
         "meta.generic-where-clause.swift",
         "meta.arguments.attribute.swift"
       ],
-      "settings": { "foreground": "#c3ab85" }
+      "settings": { "foreground": "#675332" }
     },
     {
       "name": "non variable constant",
@@ -440,7 +440,7 @@
         "storage.type.annotation",
         "meta.attribute.rust"
       ],
-      "settings": { "foreground": "#c3ab85" }
+      "settings": { "foreground": "#675332" }
     },
     {
       "name": "l1 json",
