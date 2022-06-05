@@ -1,4 +1,4 @@
-# [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk.paper)
+# [Paper](https://marketplace.visualstudio.com/items?itemName=a5hk.paper)
 
 The goal was to create a light theme with good contrast ratio and a yellowish paper like background color.
 

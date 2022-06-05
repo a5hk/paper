@@ -1,8 +1,8 @@
-# [Ice](https://marketplace.visualstudio.com/items?itemName=a5hk.paper)
+# [paper](https://marketplace.visualstudio.com/items?itemName=a5hk.paper)
 
 The goal was to create a light theme with good contrast ratio and a yellowish paper like background color.
 
-Also available for [vim](/vim/colors/), [bat](/bat/), and [Windows Terminal](/windows-terminal/).
+Also available for [vim](/vim/colors/) and [Windows Terminal](/windows-terminal/).
 
 ## Screenshots
 
