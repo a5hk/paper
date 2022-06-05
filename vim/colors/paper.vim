@@ -49,17 +49,17 @@ highlight NCScriptTag  guifg=#c20aac
 highlight NCAttributeName  guifg=#9e4200
 highlight NCTagPunctuation  guifg=#86847c
 highlight NCUnrecognizedTag  guifg=#c91d1d
-highlight NCJsonLevel01  guifg=#f4b271
-highlight NCJsonLevel02  guifg=#57c79c
-highlight NCJsonLevel03  guifg=#e9de63
-highlight NCJsonLevel04  guifg=#ff7566
-highlight NCJsonLevel05  guifg=#dfca9f
-highlight NCJsonLevel06  guifg=#ff8595
-highlight NCJsonLevel07  guifg=#c3ab85
-highlight NCJsonLevel08  guifg=#57c79c
-highlight NCJsonLevel09  guifg=#e9de63
-highlight NCJsonLevel10  guifg=#ff7566
-highlight NCJsonLevel11  guifg=#f4b271
+highlight NCJsonLevel01  guifg=#c20aac
+highlight NCJsonLevel02  guifg=#2059cb
+highlight NCJsonLevel03  guifg=#c91d1d
+highlight NCJsonLevel04  guifg=#007aa3
+highlight NCJsonLevel05  guifg=#956a04
+highlight NCJsonLevel06  guifg=#c20aac
+highlight NCJsonLevel07  guifg=#2059cb
+highlight NCJsonLevel08  guifg=#c91d1d
+highlight NCJsonLevel09  guifg=#007aa3
+highlight NCJsonLevel10  guifg=#956a04
+highlight NCJsonLevel11  guifg=#c20aac
 
 hi! link xmlAttrib NCAttributeName
 hi! link cssTagName NCAttributeName
