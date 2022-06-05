@@ -6,15 +6,15 @@ The goal was to create a colorful light theme with a good contrast ratio.
 
 ### HTML
 
-![html](screenshot/html.png)
+![html](/screenshot/html.png)
 
 ### JavaScript
 
-![javascript](screenshot/javascript.png)
+![javascript](/screenshot/javascript.png)
 
 ### Python
 
-![python](screenshot/python.png)
+![python](/screenshot/python.png)
 
 ## License
 
