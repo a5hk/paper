@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.7.0
+
+- fixed git colors
+- fixed panel title colors
+
 ## 0.4.0
 
 - Secondary button colors
