@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0
+
+- Customized Command Center colors
+
 ## 0.7.0
 
 - fixed git colors
