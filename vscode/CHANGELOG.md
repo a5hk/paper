@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- More contrasted colors for input options
+
 ## 1.0.0
 
 - Customized Command Center colors
