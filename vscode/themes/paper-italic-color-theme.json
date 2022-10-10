@@ -111,6 +111,7 @@
     "peekViewResult.selectionBackground": "#dad6ca",
     "peekViewTitle.background": "#f1edde",
     "peekViewTitleLabel.foreground": "#898883",
+    "pickerGroup.foreground": "#3e3d39",
     "progressBar.background": "#6547b8",
     "quickInputList.focusBackground": "#c3c0b5",
     "sash.hoverBorder": "#0fbda8",
