@@ -119,6 +119,7 @@
     "scrollbarSlider.activeBackground": "#0da49266",
     "scrollbarSlider.background": "#cecbbf77",
     "scrollbarSlider.hoverBackground": "#c3c0b588",
+    "settings.dropdownForeground": "#3e3d39",
     "settings.headerForeground": "#3e3d39",
     "sideBar.background": "#fcf8e8",
     "sideBarSectionHeader.background": "#f1edde",

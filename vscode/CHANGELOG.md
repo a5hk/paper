@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Fixed contrast of settings dropdown
+
 ## 1.1.0
 
 - Customized code action color
