@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2
+
+- Default error color
+- Unexpected bracket color
+
 ## 1.1.1
 
 - Fixed contrast of settings dropdown
