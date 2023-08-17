@@ -8,22 +8,22 @@
       {
         "label": "Paper",
         "path": "./themes/paper-color-theme.json",
-        "uiTheme": "vs-dark"
+        "uiTheme": "vs"
       },
       {
         "label": "Paper Contrast",
         "path": "./themes/paper-contrast-color-theme.json",
-        "uiTheme": "vs-dark"
+        "uiTheme": "vs"
       },
       {
         "label": "Paper Italic",
         "path": "./themes/paper-italic-color-theme.json",
-        "uiTheme": "vs-dark"
+        "uiTheme": "vs"
       },
       {
         "label": "Paper Contrast Italic",
         "path": "./themes/paper-contrast-italic-color-theme.json",
-        "uiTheme": "vs-dark"
+        "uiTheme": "vs"
       }
     ]
   },
@@ -52,5 +52,5 @@
     "type": "git",
     "url": "https://github.com/a5hk/paper"
   },
-  "version": "1.1.2"
+  "version": "1.1.3"
 }

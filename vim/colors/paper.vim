@@ -7,7 +7,7 @@ if has("termguicolors")
   set termguicolors
 endif
 
-set background=dark
+set background=light
 let colors_name="Paper"
 
 highlight clear CursorLine
