@@ -146,7 +146,7 @@
         <key>name</key>
         <string>keyword</string>
         <key>scope</key>
-        <string>keyword.control.module, keyword.control, keyword.operator.expression.of, keyword.operator.new, keyword.other.special-method, keyword.type.go, keyword, keyword storage.type, storage.modifier, storage.type.class, storage.type.function</string>
+        <string>keyword.control.module, keyword.control, keyword.operator.expression.of, keyword.operator.new, keyword.other.special-method, keyword.type.go, keyword, keyword storage.type, storage.modifier, storage.type.class, storage.type.function, storage.type.interface, storage.type.type</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>

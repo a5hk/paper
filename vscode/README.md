@@ -2,7 +2,7 @@
 
 The goal was to create a light theme with good contrast ratio and a yellowish paper like background color.
 
-Also available for [vim](/vim/colors/) and [Windows Terminal](/windows-terminal/).
+Also available for [vim](/vim/colors/) and [Windows Terminal](/windows-terminal/). Built using [Theme Generator](https://github.com/a5hk/theme-generator)
 
 ## Screenshots
 

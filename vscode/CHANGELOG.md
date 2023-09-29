@@ -2,6 +2,10 @@
 
 ## 1.1.2
 
+- Fixed issues with TypeScript highlighting
+
+## 1.1.2
+
 - Default error color
 - Unexpected bracket color
 
