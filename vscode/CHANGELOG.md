@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.2
+## 1.2.0
 
 - Fixed issues with TypeScript highlighting
 
