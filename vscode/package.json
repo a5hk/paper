@@ -14,16 +14,6 @@
         "label": "Paper Contrast",
         "path": "./themes/paper-contrast-color-theme.json",
         "uiTheme": "vs"
-      },
-      {
-        "label": "Paper Italic",
-        "path": "./themes/paper-italic-color-theme.json",
-        "uiTheme": "vs"
-      },
-      {
-        "label": "Paper Contrast Italic",
-        "path": "./themes/paper-contrast-italic-color-theme.json",
-        "uiTheme": "vs"
       }
     ]
   },
@@ -40,10 +30,7 @@
   "icon": "icon.png",
   "keywords": [
     "Paper",
-    "Light",
-    "Borderless",
-    "Italic",
-    "Contrast"
+    "Light"
   ],
   "license": "MIT",
   "name": "paper",
@@ -52,5 +39,5 @@
     "type": "git",
     "url": "https://github.com/a5hk/paper"
   },
-  "version": "1.2.0"
+  "version": "2.0.0"
 }

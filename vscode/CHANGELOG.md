@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.0
+
+- Removed italic variant
+- Some other minor improvments
+
 ## 1.2.0
 
 - Fixed issues with TypeScript highlighting
